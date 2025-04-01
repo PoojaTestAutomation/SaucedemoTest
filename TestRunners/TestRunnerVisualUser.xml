@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="ProductInformationTestSuite">
+    <!-- This suite runs tests with visual user login -->
+    <test name="ProductInformationTest">
+        <parameter name="browser" value="chromium"/> <!-- Set browser type here -->
+        <classes>
+            <class name="com.example.tests.ProductInformationTest" />
+        </classes>
+    </test>
+</suite>

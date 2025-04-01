@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="ProductInformationTestSuite">
+    <test name="ProductInformationTest">
+        <parameter name="browser" value="chromium"/> <!-- Set browser type here -->
+        <classes>
+            <class name="ProductInformationTest.java" />
+        </classes>
+    </test>
+</suite>
